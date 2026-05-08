@@ -1,0 +1,218 @@
+[
+  {
+    "id": "song-001",
+    "title": "Blue Dawn Signal",
+    "artist": "Luna Field",
+    "genre": "K-pop",
+    "tags": ["청량", "밴드팝", "아련", "새벽"],
+    "review": "새벽 공기처럼 맑고 살짝 쓸쓸한 감정이 남는 곡이다.",
+    "description": "기타 리프와 부드러운 보컬이 중심이 되는 청량한 K-pop 밴드 사운드."
+  },
+  {
+    "id": "song-002",
+    "title": "Neon Rain",
+    "artist": "City Echo",
+    "genre": "Synth Pop",
+    "tags": ["몽환", "도시", "신스", "야간"],
+    "review": "비 오는 밤의 네온사인을 떠올리게 하는 몽환적인 분위기가 좋다.",
+    "description": "반짝이는 신스 패드와 미니멀한 비트가 어우러진 도시적인 신스 팝."
+  },
+  {
+    "id": "song-003",
+    "title": "Paper Airplane",
+    "artist": "Mellow Apricot",
+    "genre": "Indie Pop",
+    "tags": ["포근", "어쿠스틱", "일상", "따뜻함"],
+    "review": "작은 카페에서 편지를 쓰는 듯한 포근한 감성이 느껴진다.",
+    "description": "어쿠스틱 기타와 담백한 멜로디가 중심인 따뜻한 인디 팝."
+  },
+  {
+    "id": "song-004",
+    "title": "Chrome Heartbeat",
+    "artist": "Nova Unit",
+    "genre": "Electronic",
+    "tags": ["강렬", "전자음", "질주", "미래적"],
+    "review": "빠른 템포와 단단한 전자음이 에너지를 밀어 올린다.",
+    "description": "드라이브감 있는 베이스와 금속성 신스가 돋보이는 일렉트로닉 트랙."
+  },
+  {
+    "id": "song-005",
+    "title": "Foggy Window",
+    "artist": "Haerin Park",
+    "genre": "R&B",
+    "tags": ["감성", "그루브", "밤", "부드러움"],
+    "review": "늦은 밤 혼자 듣기 좋은 부드러운 그루브와 감성적인 보컬이 인상적이다.",
+    "description": "느긋한 드럼과 따뜻한 코드 진행을 가진 한국어 R&B 스타일의 곡."
+  },
+  {
+    "id": "song-006",
+    "title": "Summer Arcade",
+    "artist": "Pixel Soda",
+    "genre": "Dance Pop",
+    "tags": ["상큼", "댄스", "여름", "활기"],
+    "review": "가볍고 통통 튀는 리듬이 여름 오후의 기분을 만들어 준다.",
+    "description": "밝은 신스와 경쾌한 후렴 분위기가 특징인 댄스 팝."
+  },
+  {
+    "id": "song-007",
+    "title": "Quiet Orbit",
+    "artist": "Jin Sol",
+    "genre": "Ballad",
+    "tags": ["서정", "피아노", "우주", "고요"],
+    "review": "감정을 크게 터뜨리기보다 조용히 맴도는 서정성이 매력적이다.",
+    "description": "피아노와 스트링 질감이 중심인 차분한 발라드."
+  },
+  {
+    "id": "song-008",
+    "title": "Dusty Vinyl",
+    "artist": "Brown Street",
+    "genre": "Jazz",
+    "tags": ["빈티지", "재즈", "카페", "느긋함"],
+    "review": "오래된 레코드의 따뜻한 잡음처럼 편안하고 세련된 인상을 준다.",
+    "description": "스윙감 있는 드럼과 부드러운 피아노 코드가 흐르는 재즈 팝."
+  },
+  {
+    "id": "song-009",
+    "title": "Highway Bloom",
+    "artist": "Road Mint",
+    "genre": "Rock",
+    "tags": ["드라이브", "기타", "시원함", "자유"],
+    "review": "탁 트인 도로를 달리는 듯한 시원한 기타 사운드가 매력적이다.",
+    "description": "밝은 기타 톤과 직선적인 드럼이 어울리는 경쾌한 록."
+  },
+  {
+    "id": "song-010",
+    "title": "Moon Jelly",
+    "artist": "Sea Glass",
+    "genre": "Dream Pop",
+    "tags": ["몽환", "바다", "부유감", "은은함"],
+    "review": "물속을 천천히 떠다니는 듯한 부유감과 은은한 멜로디가 좋다.",
+    "description": "리버브가 깊은 기타와 흐릿한 보컬 레이어가 특징인 드림 팝."
+  },
+  {
+    "id": "song-011",
+    "title": "Metro Pulse",
+    "artist": "Line 7",
+    "genre": "Hip-hop",
+    "tags": ["도시", "비트", "리듬", "쿨함"],
+    "review": "지하철 창밖의 빠른 풍경처럼 쿨하고 리듬감 있는 곡이다.",
+    "description": "타이트한 드럼과 낮게 깔리는 베이스가 중심인 힙합 트랙."
+  },
+  {
+    "id": "song-012",
+    "title": "Peach Sunset",
+    "artist": "Orenji",
+    "genre": "K-pop",
+    "tags": ["달콤", "노을", "청춘", "멜로디"],
+    "review": "노을빛처럼 부드럽고 달콤한 멜로디가 오래 남는다.",
+    "description": "밝은 보컬과 산뜻한 편곡이 어울린 청춘 감성의 K-pop."
+  },
+  {
+    "id": "song-013",
+    "title": "Snow Lantern",
+    "artist": "Yuri Han",
+    "genre": "Folk",
+    "tags": ["겨울", "어쿠스틱", "고요", "따뜻함"],
+    "review": "차가운 계절 속 작은 불빛처럼 조용하고 따뜻한 위로를 준다.",
+    "description": "나일론 기타와 담백한 보컬이 중심인 미니멀 포크."
+  },
+  {
+    "id": "song-014",
+    "title": "Velvet Bassline",
+    "artist": "Mood Circuit",
+    "genre": "R&B",
+    "tags": ["그루브", "세련", "베이스", "무드"],
+    "review": "부드럽지만 탄력 있는 베이스 라인이 세련된 분위기를 만든다.",
+    "description": "슬로우 잼 감성의 비트와 섬세한 보컬이 어우러진 R&B."
+  },
+  {
+    "id": "song-015",
+    "title": "Spark Run",
+    "artist": "Vivid Track",
+    "genre": "Dance Pop",
+    "tags": ["에너지", "운동", "밝음", "속도감"],
+    "review": "운동할 때 듣기 좋은 밝고 빠른 에너지가 가득하다.",
+    "description": "강한 킥과 화려한 신스 리드가 인상적인 업템포 댄스 팝."
+  },
+  {
+    "id": "song-016",
+    "title": "Afterimage",
+    "artist": "Mono Lake",
+    "genre": "Alternative",
+    "tags": ["쓸쓸함", "기타", "몽환", "회상"],
+    "review": "지나간 장면의 잔상처럼 쓸쓸하고 몽환적인 기타 톤이 남는다.",
+    "description": "느린 드럼과 공간감 있는 기타 사운드를 가진 얼터너티브 곡."
+  },
+  {
+    "id": "song-017",
+    "title": "Tiny Festival",
+    "artist": "Cherry Parade",
+    "genre": "Indie Pop",
+    "tags": ["귀여움", "축제", "상큼", "가벼움"],
+    "review": "작은 동네 축제처럼 귀엽고 밝은 기분을 만들어 준다.",
+    "description": "손뼉 리듬과 통통 튀는 멜로디가 있는 상큼한 인디 팝."
+  },
+  {
+    "id": "song-018",
+    "title": "Deep Current",
+    "artist": "Abyss Tone",
+    "genre": "Ambient",
+    "tags": ["심해", "명상", "공간감", "느림"],
+    "review": "깊은 물속에 잠기는 듯한 느린 호흡과 공간감이 두드러진다.",
+    "description": "드론 사운드와 부드러운 신스 텍스처가 이어지는 앰비언트 트랙."
+  },
+  {
+    "id": "song-019",
+    "title": "Glass Runner",
+    "artist": "Prism Beat",
+    "genre": "Electronic",
+    "tags": ["차가움", "질주", "신스", "긴장감"],
+    "review": "유리 터널을 달리는 듯 차갑고 긴장감 있는 전개가 매력적이다.",
+    "description": "빠른 아르페지오와 날카로운 전자음이 중심인 일렉트로닉 곡."
+  },
+  {
+    "id": "song-020",
+    "title": "Diary Page",
+    "artist": "Min Seo",
+    "genre": "Ballad",
+    "tags": ["고백", "피아노", "섬세함", "감정"],
+    "review": "일기장 한 페이지처럼 솔직하고 섬세한 감정선이 느껴진다.",
+    "description": "절제된 피아노 반주와 가까운 보컬 질감이 특징인 발라드."
+  },
+  {
+    "id": "song-021",
+    "title": "Green Room",
+    "artist": "The Soft Chairs",
+    "genre": "Lo-fi",
+    "tags": ["휴식", "로파이", "공부", "편안함"],
+    "review": "공부하거나 쉬는 시간에 틀어두기 좋은 편안한 로파이 감성이다.",
+    "description": "부드러운 드럼 샘플과 따뜻한 키보드 코드가 반복되는 로파이 트랙."
+  },
+  {
+    "id": "song-022",
+    "title": "Midnight Bloom",
+    "artist": "Sora Kim",
+    "genre": "K-pop",
+    "tags": ["몽환", "밤", "꽃", "감성"],
+    "review": "밤에 피는 꽃처럼 은은하고 감성적인 분위기가 퍼진다.",
+    "description": "신스 패드와 섬세한 보컬 레이어가 중심인 미드템포 K-pop."
+  },
+  {
+    "id": "song-023",
+    "title": "Copper Train",
+    "artist": "Rust Valley",
+    "genre": "Rock",
+    "tags": ["거친", "블루스", "기타", "여행"],
+    "review": "낡은 기차를 타고 긴 여행을 떠나는 듯한 거친 매력이 있다.",
+    "description": "블루스 록 기반의 기타 리프와 낮은 보컬 톤이 특징인 곡."
+  },
+  {
+    "id": "song-024",
+    "title": "Morning Yogurt",
+    "artist": "Sunday Bowl",
+    "genre": "Pop",
+    "tags": ["산뜻", "아침", "가벼움", "긍정"],
+    "review": "아침 식탁처럼 산뜻하고 부담 없이 기분을 올려주는 곡이다.",
+    "description": "가벼운 퍼커션과 밝은 멜로디가 있는 긍정적인 팝."
+  }
+]
