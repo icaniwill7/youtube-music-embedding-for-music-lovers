@@ -1,0 +1,224 @@
+{
+  "songs": [
+    {
+      "id": "song-001",
+      "title": "Blue Dawn Signal",
+      "artist": "Luna Field",
+      "genre": "K-pop",
+      "tags": ["fresh", "band pop", "dawn", "bittersweet"],
+      "review": "Clear guitar tones and a soft vocal mood make it feel good for early morning listening.",
+      "description": "A bright K-pop band track with airy guitar and a wistful emotional color.",
+      "x": -1.8,
+      "y": 1.2
+    },
+    {
+      "id": "song-002",
+      "title": "Neon Rain",
+      "artist": "City Echo",
+      "genre": "Synth Pop",
+      "tags": ["dreamy", "city", "synth", "night"],
+      "review": "It feels like walking through neon lights after rain, calm but vivid.",
+      "description": "A city synth-pop track with glossy pads, restrained drums, and late-night atmosphere.",
+      "x": 0.9,
+      "y": 1.6
+    },
+    {
+      "id": "song-003",
+      "title": "Paper Airplane",
+      "artist": "Mellow Apricot",
+      "genre": "Indie Pop",
+      "tags": ["warm", "acoustic", "daily", "soft"],
+      "review": "Small, warm, and easy to keep on repeat while writing or resting.",
+      "description": "A gentle indie-pop song built around acoustic guitar and plainspoken melody.",
+      "x": -2.1,
+      "y": -0.4
+    },
+    {
+      "id": "song-004",
+      "title": "Chrome Heartbeat",
+      "artist": "Nova Unit",
+      "genre": "Electronic",
+      "tags": ["fast", "digital", "drive", "future"],
+      "review": "Fast tempo and hard electronic textures push the energy upward.",
+      "description": "A high-energy electronic track with metallic synths and strong bass movement.",
+      "x": 2.2,
+      "y": 0.8
+    },
+    {
+      "id": "song-005",
+      "title": "Foggy Window",
+      "artist": "Haerin Park",
+      "genre": "R&B",
+      "tags": ["smooth", "night", "groove", "soft"],
+      "review": "A late-night groove with tender vocals and warm emotional shading.",
+      "description": "A soft R&B song with relaxed drums, warm chords, and close vocal texture.",
+      "x": -0.2,
+      "y": 0.2
+    },
+    {
+      "id": "song-006",
+      "title": "Summer Arcade",
+      "artist": "Pixel Soda",
+      "genre": "Dance Pop",
+      "tags": ["bright", "summer", "dance", "playful"],
+      "review": "Bouncy rhythm and sweet synths create an easy summer afternoon feeling.",
+      "description": "A playful dance-pop track with bright synth hooks and a light chorus.",
+      "x": 1.3,
+      "y": -1.1
+    },
+    {
+      "id": "song-007",
+      "title": "Quiet Orbit",
+      "artist": "Jin Sol",
+      "genre": "Ballad",
+      "tags": ["piano", "calm", "emotional", "space"],
+      "review": "The emotion circles quietly instead of bursting open.",
+      "description": "A restrained piano ballad with soft strings and a calm reflective mood.",
+      "x": -0.7,
+      "y": -1.8
+    },
+    {
+      "id": "song-008",
+      "title": "Dusty Vinyl",
+      "artist": "Brown Street",
+      "genre": "Jazz",
+      "tags": ["vintage", "cafe", "relaxed", "piano"],
+      "review": "Warm and stylish, like an old record playing in a small cafe.",
+      "description": "A relaxed jazz-pop song with swing drums and soft piano chords.",
+      "x": -1.4,
+      "y": -1.0
+    },
+    {
+      "id": "song-009",
+      "title": "Highway Bloom",
+      "artist": "Road Mint",
+      "genre": "Rock",
+      "tags": ["guitar", "drive", "open", "free"],
+      "review": "Wide guitar tones make it feel like driving on an open road.",
+      "description": "A breezy rock song with direct drums and clean, energetic guitar.",
+      "x": 0.4,
+      "y": -1.4
+    },
+    {
+      "id": "song-010",
+      "title": "Moon Jelly",
+      "artist": "Sea Glass",
+      "genre": "Dream Pop",
+      "tags": ["floating", "ocean", "dreamy", "reverb"],
+      "review": "The song floats slowly, like moonlight moving under water.",
+      "description": "A reverb-heavy dream-pop song with blurred vocals and liquid guitar.",
+      "x": 0.2,
+      "y": 1.9
+    },
+    {
+      "id": "song-011",
+      "title": "Metro Pulse",
+      "artist": "Line 7",
+      "genre": "Hip-hop",
+      "tags": ["beat", "city", "cool", "bass"],
+      "review": "Cool and rhythmic, like watching the city pass by from a train.",
+      "description": "A crisp hip-hop track with low bass and tight drum programming.",
+      "x": 1.7,
+      "y": 0.1
+    },
+    {
+      "id": "song-012",
+      "title": "Peach Sunset",
+      "artist": "Orenji",
+      "genre": "K-pop",
+      "tags": ["sweet", "youth", "sunset", "melody"],
+      "review": "Soft and sweet melodies linger like a peach-colored sunset.",
+      "description": "A sweet K-pop song with bright vocals and a nostalgic youth mood.",
+      "x": -1.2,
+      "y": 0.7
+    },
+    {
+      "id": "song-013",
+      "title": "Snow Lantern",
+      "artist": "Yuri Han",
+      "genre": "Folk",
+      "tags": ["winter", "acoustic", "quiet", "warm"],
+      "review": "Quiet warmth glows inside a cold winter atmosphere.",
+      "description": "A minimal folk song with nylon guitar and gentle vocal phrasing.",
+      "x": -2.3,
+      "y": -1.6
+    },
+    {
+      "id": "song-014",
+      "title": "Velvet Bassline",
+      "artist": "Mood Circuit",
+      "genre": "R&B",
+      "tags": ["bass", "sleek", "groove", "mood"],
+      "review": "The bassline is soft but elastic, giving the track a polished feel.",
+      "description": "A sleek R&B track led by a soft bassline and slow-jam drums.",
+      "x": 0.1,
+      "y": -0.1
+    },
+    {
+      "id": "song-015",
+      "title": "Spark Run",
+      "artist": "Vivid Track",
+      "genre": "Dance Pop",
+      "tags": ["energy", "workout", "fast", "bright"],
+      "review": "Bright, quick energy makes it useful for workouts or running.",
+      "description": "An uptempo dance-pop song with strong kicks and a shining synth lead.",
+      "x": 2.0,
+      "y": -1.2
+    },
+    {
+      "id": "song-016",
+      "title": "Afterimage",
+      "artist": "Mono Lake",
+      "genre": "Alternative",
+      "tags": ["lonely", "guitar", "memory", "dreamy"],
+      "review": "A lonely guitar tone lingers like a remembered image.",
+      "description": "A spacious alternative track with slow drums and wistful guitars.",
+      "x": -0.6,
+      "y": 1.1
+    },
+    {
+      "id": "song-017",
+      "title": "Tiny Festival",
+      "artist": "Cherry Parade",
+      "genre": "Indie Pop",
+      "tags": ["cute", "festival", "light", "fresh"],
+      "review": "Cute and light, like a small neighborhood festival.",
+      "description": "A light indie-pop song with handclap rhythm and cheerful melody.",
+      "x": -1.6,
+      "y": -0.1
+    },
+    {
+      "id": "song-018",
+      "title": "Deep Current",
+      "artist": "Abyss Tone",
+      "genre": "Ambient",
+      "tags": ["deep", "meditative", "slow", "space"],
+      "review": "Slow and spacious, with the feeling of sinking into deep water.",
+      "description": "A slow ambient track with drone texture and wide synthetic space.",
+      "x": 0.8,
+      "y": 2.4
+    },
+    {
+      "id": "song-019",
+      "title": "Glass Runner",
+      "artist": "Prism Beat",
+      "genre": "Electronic",
+      "tags": ["cold", "tense", "motion", "synth"],
+      "review": "Cold arpeggios create motion and tension from the first measure.",
+      "description": "A tense electronic song with sharp arpeggios and fast movement.",
+      "x": 2.4,
+      "y": 1.3
+    },
+    {
+      "id": "song-020",
+      "title": "Diary Page",
+      "artist": "Min Seo",
+      "genre": "Ballad",
+      "tags": ["confession", "piano", "delicate", "emotional"],
+      "review": "Intimate and honest, like reading a private diary page.",
+      "description": "A delicate piano ballad with close vocals and careful emotion.",
+      "x": -0.9,
+      "y": -2.3
+    }
+  ]
+}
