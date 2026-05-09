@@ -1,5 +1,5 @@
 import { MouseEvent, useEffect, useMemo, useState } from "react";
-import { Loader2, Map, Music2, Search, Sparkles, Youtube } from "lucide-react";
+import { Loader2, Map, Music2, Search, Sparkles } from "lucide-react";
 
 const API_BASE = "http://127.0.0.1:8787";
 const isStaticPage =
@@ -363,7 +363,7 @@ export default function App() {
               </button>
             </div>
             <div className="search-row">
-              <Youtube size={18} />
+              <Music2 size={18} />
               <input
                 value={youtubeUrl}
                 placeholder="Paste a YouTube or YouTube Music link"
